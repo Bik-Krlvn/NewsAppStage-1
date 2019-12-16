@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_4dp">4dp</dimen>
+    <dimen name="medium_8dp">8dp</dimen>
+    <dimen name="card_radius_4dp">4dp</dimen>
+    <dimen name="large_16dp">16dp</dimen>
+    <dimen name="no_width_0dp">0dp</dimen>
+    <dimen name="image_height_200dp">200dp</dimen>
+</resources>

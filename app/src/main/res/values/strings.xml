@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="desc_photo">photo</string>
+    <string name="no_content_available">No content available</string>
+    <string name="no_internet_connection">No internet connectivity, Tap refresh to retry</string>
+    <string name="menu_refresh">refresh</string>
+</resources>
